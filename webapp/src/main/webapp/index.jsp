@@ -1,3 +1,3 @@
-<h1> Hello Everyone, Welcome to Harsha Trainings !!! </h1>
+<h1> Welcome to Harsha Trainings !!! </h1>
 
 
