@@ -4,7 +4,6 @@
 
 <h1> All the best.................... </h1>
 
-<h1> Our next project would be on 15th or 16th </h1>
 
 
 
