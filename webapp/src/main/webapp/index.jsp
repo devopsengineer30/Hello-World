@@ -8,7 +8,7 @@
 
 
 
-<h1> We will be having 2nd project tomorrow at 7PM IST </h1>
+
 
 
 
