@@ -5,7 +5,7 @@
 <h1> All the best.................... </h1>
 
 <h1> All the best.................... </h1>
-<h1> 2nd project would be on monday @9AM </h1>
+
 
 
 
