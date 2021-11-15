@@ -1,0 +1,18 @@
+pipeline {
+    agent any 
+       environment {
+       Path = "/urs/share/maven:$PATH
+}
+        stages {
+        stage("git clone") {
+        steps {
+     
+       }
+    }
+    stage("build") {
+    steps {
+    sh "mvn clean package"
+   }
+ }
+ }
+ }
