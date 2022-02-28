@@ -5,13 +5,7 @@
 <h1> All the best.................... </h1>
 
 <h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
-<h1> Today we will be having 3rd project which is Kubernetes Project.................... </h1>
+
 
 
 
