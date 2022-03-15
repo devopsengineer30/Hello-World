@@ -6,9 +6,7 @@
 
 <h1> Tomorrow we will be having 3rd project which is Kubernetes Project.................... </h1>
 
-<h1> We will be having Python Basic scripting session on Wednesday.................... </h1>
 
-<h1> We are going complete the cource on Wednesday.................... </h1>
 
 
 
