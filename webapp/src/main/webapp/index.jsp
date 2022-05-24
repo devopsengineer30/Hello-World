@@ -5,9 +5,10 @@
 <h1> All the best.................... </h1>
 
 <h1> Tomorrow We will be having 3rd project which is Kubernetes Project.................... </h1>
-
-<h1> Also Python Scripting............. </h1>
-
+<h1> Tomorrow We will be having 3rd project which is Kubernetes Project.................... </h1>
+<h1> Tomorrow We will be having 3rd project which is Kubernetes Project.................... </h1>
+<h1> Tomorrow We will be having 3rd project which is Kubernetes Project.................... </h1>
+<h1> Tomorrow We will be having 3rd project which is Kubernetes Project.................... </h1>
 
 
 
