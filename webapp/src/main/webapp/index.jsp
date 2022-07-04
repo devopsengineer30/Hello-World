@@ -7,13 +7,6 @@
 <h1> Monday, We will be having 3rd project which is Kubernetes Project.................... </h1>
 
 <h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
-<h1> Kubernetes Project is very important.................... </h1>
 
 
 
