@@ -1,12 +1,12 @@
-<h1> Hello All, Welcome to Harsha Trainings !!! </h1>
-
-<h1> Now devops job market is good.. all the best </h1>
-
-<h1> All the best.................... </h1>
-
-<h1> Tomorrow we will be having 3rd project which is Kubernetes Project.................... </h1>
-
-<h2> day after <h1> Tomorrow we will be having 3rd project which is Kubernetes Project...<h2>  
+TOMCAT INSTALLATION USERID SCRIPT(tomcat-user.xml file)
+--------------------------------
+<role rolename="manager-gui"/>
+<role rolename="manager-script"/>
+<role rolename="manager-jmx"/>
+<role rolename="manager-status"/>
+<user username="admin" password="admin" roles="manager-gui, manager-script, manager-jmx, manager-status"/>
+<user username="deployer" password="deployer" roles="manager-script"/>
+<user username="tomcat" password="s3cret" roles="manager-gui"/>
 
 
 
