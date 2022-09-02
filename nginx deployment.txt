@@ -1,0 +1,83 @@
+       $ vi nginx1.yml
+       $ kubectl create deployment  --image nginx my-nginx
+       $ kubectl get pods
+       $ kubectl get deployment
+       $ kubectl scale deployment --replicas 2 my-nginx
+       $ kubectl get pods
+       $ kubectl create service nodeport my-nginx --tcp=80:80
+       $ kubectl get service
+
+============================================================================================================
+list containers running in a kubernetes pod:
+----------------------------------------------------
+kubectl get pods -o=custom-columns=NAME:.metadata.name,CONTAINERS:.spec.containers[*].name
+
+=============================================================================================================
+ 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+  labels:
+    app: nginx
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:1.14.2
+        ports:
+        - containerPort: 80
+========================================
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-deploy
+spec:
+  replicas: 10
+  selector:
+    matchLabels:
+      app: hello-world
+  minReadySeconds: 10
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 1
+      maxSurge: 1
+  template:
+    metadata:
+      labels:
+        app: hello-world
+    spec:
+      containers:
+      - name: hello-pod
+        image: nigelpoulton/k8sbook:edge
+        ports:
+        - containerPort: 8080
+
+
+================================================
+
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: my-apache-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: my-apache
+    spec:
+      containers:
+      - name: my-apache-container1
+        image: httpd
+        ports:
+        - containerPort: 80
