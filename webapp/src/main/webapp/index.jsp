@@ -1,6 +1,4 @@
-TOMCAT INSTALLATION USERID SCRIPT(tomcat-user.xml file)
-<role rolename="manager-gui"/>
-<role rolename="manager-script"/>
+<role rolename="manager-gui"/><role rolename="manager-script"/>
 <role rolename="manager-jmx"/>
 <role rolename="manager-status"/>
 <user username="admin" password="admin" roles="manager-gui, manager-script, manager-jmx, manager-status"/>
