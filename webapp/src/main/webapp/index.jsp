@@ -4,7 +4,7 @@
 
 <h1> All the best.................... </h1>
 
-<h1> We are going to work on 3rd project which is Kubernetes Project today.................... </h1>
+<h1> We will be having python basics session on Monday.................... </h1>
 
 
 
