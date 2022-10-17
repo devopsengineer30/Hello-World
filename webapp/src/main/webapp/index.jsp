@@ -5,16 +5,6 @@
 <h1> All the best </h1>
 
 
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
-<h1> Our Next Project which is Kubernetes would be on Monday </h1>
 
 
 
