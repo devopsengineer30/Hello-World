@@ -3,23 +3,7 @@
 <h1> Now devops job market is good.. all the best </h1>
 
 <h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
-<h1> All the best </h1>
+<h1> Tomorrow we will be having 3rd Project Which is Kubernetes </h1>
 
 
 
